@@ -1,0 +1,15 @@
+\contentsline {section}{ABSTRACT}{2}{section*.1}% 
+\contentsline {section}{\numberline {1}INTRODUCTION}{2}{section.1}% 
+\contentsline {section}{\numberline {2}EXTENSIVE LITERATURE REVIEW }{2}{section.2}% 
+\contentsline {section}{\numberline {3}RESEARCH GAPS \& CHALLENGES}{2}{section.3}% 
+\contentsline {section}{\numberline {4}PROBLEM IDENTIFICATION \& STATEMENT}{2}{section.4}% 
+\contentsline {section}{\numberline {5}OBJECTIVES \& METHODOLOGIES}{2}{section.5}% 
+\contentsline {section}{\numberline {6}ACCOMPLISHMENT OF THE PROPOSED WORK }{3}{section.6}% 
+\contentsline {section}{\numberline {7}ANALYSIS / SIMULATION / TESTING / VALIDATION }{3}{section.7}% 
+\contentsline {section}{\numberline {8}RESULTS AND DISCUSSIONS}{3}{section.8}% 
+\contentsline {section}{\numberline {9}CONCLUSION}{3}{section.9}% 
+\contentsline {section}{FUTURE PLAN \& TIMELINE}{3}{section*.2}% 
+\contentsline {section}{LIST OF PUBLICATIONS}{4}{section*.3}% 
+\contentsline {section}{WORKSHOP / SEMINAR /CONFERENCE ATTENDED}{4}{section*.4}% 
+\contentsline {section}{REFERENCES}{5}{Item.10}% 
+\contentsline {section}{APPENDIX (Plagiarism check report)}{7}{section*.5}% 
